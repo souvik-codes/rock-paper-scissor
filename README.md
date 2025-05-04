@@ -2,7 +2,6 @@
 
 A real-time Rock-Paper-Scissors game built using **YOLOv8 object detection**, **OpenCV**, and **Tkinter GUI**. The system captures your hand gesture using your webcam, detects whether you're showing "rock", "paper", or "scissors", and then plays the game against a random computer choice!
 
-https://user-images.githubusercontent.com/your_video_preview_link_here.gif
 
 ## 🚀 Features
 
